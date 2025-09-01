@@ -5,13 +5,6 @@ PneumoXplain is a deep learning project that detects Pneumonia vs Normal from ch
 
 Source: Kaggle Chest X-ray Pneumonia Dataset (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)
 
-Structure:
-
-chest_xray/
-├── train/ (Normal / Pneumonia)
-├── val/   (Normal / Pneumonia)
-├── test/  (Normal / Pneumonia)
-
 * Features
 
 Binary classification: Normal vs. Pneumonia
