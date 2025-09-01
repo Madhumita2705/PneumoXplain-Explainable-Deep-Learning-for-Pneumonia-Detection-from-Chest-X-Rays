@@ -1,0 +1,2 @@
+# PneumoXplain-Explainable-Deep-Learning-for-Pneumonia-Detection-from-Chest-X-Rays
+PneumoXplain is a deep learning project that detects Pneumonia vs Normal from chest X-rays using DenseNet121. The model is made explainable with Grad-CAM heatmaps, highlighting lung regions that influenced predictions. Designed for trustworthy AI in healthcare, it provides visual insights alongside high classification accuracy.
